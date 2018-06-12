@@ -1,0 +1,25 @@
+{
+  "name": "node.mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vengefulbliss/node.MySqL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vengefulbliss/node.MySqL/issues"
+  },
+  "homepage": "https://github.com/vengefulbliss/node.MySqL#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "package": "^1.0.1",
+    "prompt": "^1.0.0"
+  }
+}
